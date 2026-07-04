@@ -1,0 +1,16 @@
+.namaorang{
+    font-size: 15px;
+    color: palegreen;
+    background-color: black;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr {
+    border-bottom: 1px solid #800a0a;
+}
+
+tr :hover {background-color: #800a0a;}
